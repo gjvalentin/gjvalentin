@@ -23,15 +23,6 @@
 <a href="https://twitter.com/11329743"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=gjvalentin">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://metrics.lecoq.io/gjvalentin"><p>
