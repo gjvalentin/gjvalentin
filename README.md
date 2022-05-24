@@ -15,7 +15,7 @@
 <p>
 <a href="https://linkedin.com/in/gjvalentin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/valentin_idk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/11329743"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://stackoverflow.com/users/11329743"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
  <a href="https://www.upwork.com/freelancers/~015badce020a41efc4"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 </p>
