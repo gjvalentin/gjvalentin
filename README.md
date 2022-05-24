@@ -1,9 +1,4 @@
-# Hi there 👋, My name is Valentin
-
 <img width="100%" src="https://i.ibb.co/XJH80Mf/github-header-image.png" alt="my banner">
-
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Lomio</p>
 
 ## 💻 Skills
 <p>
@@ -23,6 +18,4 @@
 <a href="https://twitter.com/11329743"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 📊 Github Status
-
-<p><img src="https://metrics.lecoq.io/gjvalentin"><p>
+![Valentin's GitHub stats](https://github-readme-stats-six-smoky-97.vercel.app/api?username=gjvalentin&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=chartreuse-dark)
